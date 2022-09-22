@@ -1,0 +1,65 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+h1{
+  font-size: 60px;
+  margin-top: 0;
+  padding-top: 40px;
+  width: 25%;
+  margin: 0 auto;
+  color: #6E85B7;
+  font-family: 'Patrick Hand', cursive;
+}
+h3{
+  color: #6E85B7;
+  font-size: 25px;
+}
+span{
+  text-decoration: underline;
+
+}
+.mountain{
+  padding-bottom: 0;
+
+}
+.cloud2{
+  position: relative;
+  left: 300px;
+  top: 20px;
+  width: 128px;
+  height: 128px;
+
+}
+.cloud1{
+  width: 128px;
+  height: 128px;
+  position: absolute;
+  left: 350px;
+  top: 350px;
+}
+.top-container{
+  background-color: #C4D7E0;
+  margin-top: 0;
+
+}
+.selfp{
+  margin-top: 60px;
+  width: 20%;
+}
+.skill-row{
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line height: 2;
+}
+.firstpic{
+  width: 20%;
+  float: left;
+
+}
+.secondpic{
+  width: 20%;
+  float: right;
+}
